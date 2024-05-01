@@ -18,8 +18,8 @@ python pong.py
 ## Controls
 
 - Player 1:
-  - W: Move paddle up
-  - S: Move paddle down
+  - A: Move paddle up
+  - Q: Move paddle down
 - Player 2:
   - Up Arrow: Move paddle up
   - Down Arrow: Move paddle down
