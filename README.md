@@ -24,11 +24,6 @@ python pong.py
   - Up Arrow: Move paddle up
   - Down Arrow: Move paddle down
 
-## Gameplay
-
-- The objective of the game is to hit the ball past your opponent's paddle.
-- The game ends when one player reaches the score limit (default is 5).
-
 ## Customization
 
 - You can customize various aspects of the game by modifying constants in the `pong.py` file, such as paddle size, ball speed, and score limit.
